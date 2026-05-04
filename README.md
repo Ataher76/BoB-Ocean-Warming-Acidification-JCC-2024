@@ -24,7 +24,7 @@ This repository hosts the data synthesis and analytical framework for the first 
 ## **How to Cite**
 This research is published in the **Journal of Climate Change**. Please cite the official paper as follows:
 
-> Pervez, A., Islam, M. S., Monwar, M. M., **Ali, A.**, & Kibria, G. (2024). **Present Scenario of Ocean Warming (OW) and Ocean Acidification (OA) in the Coastal and Marine Waters of the Bay of Bengal, Bangladesh and Implications of OW and OA on Fisheries.** *Journal of Climate Change*, 10(2), 27-39.
+> Pervez, A., Islam, M. S., Monwar, M. M., **Ali, A.**, & Kibria, G. (2024). **Present Scenario of Ocean Warming (OW) and Ocean Acidification (OA) in the Coastal and Marine Waters of the Bay of Bengal, Bangladesh and Implications of OW and OA on Fisheries.** *Journal of Climate Change*, 10(2), 27-39, https://doi.org/10.3233/JCC240012.
 
 ---
 
